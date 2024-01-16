@@ -1,0 +1,19 @@
+/* Navbar.css */
+
+.custom-navbar {
+  background-color: #343a40; /* Warna latar belakang Navbar */
+  border: none; /* Menghilangkan border pada Navbar */
+  box-shadow: none; /* Menghilangkan box shadow pada Navbar */
+}
+
+.brand {
+  color: #ffffff; /* Warna teks untuk brand */
+}
+
+.nav-link {
+  color: #ffffff; /* Warna teks untuk tautan Navbar */
+}
+
+.nav-link:hover {
+  color: #007bff; /* Warna teks saat tautan dihover */
+}
